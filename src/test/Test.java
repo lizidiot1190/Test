@@ -17,6 +17,7 @@ public class Test {
     public static void main(String[] args) {
         System.out.println("Tinh dep trai");
         System.out.println("Tinh dep trai nua ne");
+        System.out.println("Tinh dep trai nua neeeeeeeeee");
     }
     
 }
