@@ -1,3 +1,4 @@
+
 /*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
@@ -18,8 +19,10 @@ public class Test {
         System.out.println("Tinh dep trai");
         System.out.println("Tinh dep trai nua ne");
         System.out.println("Tinh dep trai nua neeeeeeeeeeeeeeeeeeeeeeeee");
-        System.out.println("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx");
-        System.out.println("2222222222222222222222222222222222222222222");
+        System.out.println("-------------------------------------------------------------------------------");
+        System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaa");
     }
     
 }
+
+
