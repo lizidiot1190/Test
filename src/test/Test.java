@@ -21,6 +21,8 @@ public class Test {
         System.out.println("Tinh dep trai nua neeeeeeeeeeeeeeeeeeeeeeeee");
         System.out.println("-------------------------------------------------------------------------------");
         System.out.println("aaaaaaaaaaaaaaaaaaaaaaaaa");
+        System.out.println("1111111111111111111111111111111111111");
+        System.out.println("22222222222222222222222222222222222222");
     }
     
 }
